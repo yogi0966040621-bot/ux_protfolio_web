@@ -44,7 +44,7 @@ export default function PortfolioPage() {
       <nav className="sticky top-0 z-50 bg-white/80 backdrop-blur-md border-b border-slate-200">
         <div className="max-w-6xl mx-auto px-6 py-4 flex justify-between items-center">
           <div className="font-bold text-xl tracking-tighter text-slate-900">
-            <span className="text-slate-400 font-medium mr-2">Soyi</span>
+            <span className="text-slate-400 font-medium mr-2">曾羽薇</span>
             UX.PORTFOLIO
           </div>
           <div className="flex gap-4">
